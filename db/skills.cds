@@ -1,0 +1,1 @@
+namespace do.ro.sk;
